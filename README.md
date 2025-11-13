@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Scalable-Thread-Management-Library</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Ashutosh-Kumar/Scalable-Thread-Management-Library/image?custom_description=A+scalable+thread+management+library+in+C%2FC%2B%2B+for+high-performance+computing+applications.&amp;description=1&amp;font=Jost&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit+Board&amp;theme=Dark" alt="project-image"></p>
+
 
 <p id="description">A scalable thread management library in C/C++ for high-performance computing applications. Supports thread creation synchronization and termination.</p>
 ---
