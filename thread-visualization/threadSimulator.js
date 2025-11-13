@@ -26,18 +26,7 @@ class ThreadPool {
         };
 
         // Initialize DOM elements
-        this.threadsContainer = document.getElementById('threads');
-        this.queueContainer = document.getElementById('queue');
-        this.logContainer = document.getElementById('logContainer');
-        this.statsElements = {
-            activeThreads: document.getElementById('activeThreads'),
-            queueSize: document.getElementById('queueSize'),
-            completedTasks: document.getElementById('completedTasks'),
-            avgCompletionTime: document.getElementById('avgCompletionTime'),
-            threadUtilization: document.getElementById('threadUtilization'),
-            throughput: document.getElementById('throughput'),
-            avgQueueTime: document.getElementById('avgQueueTime')
-        };
+      
 
         // Initialize threads
         for (let i = 0; i < initialSize; i++) {
