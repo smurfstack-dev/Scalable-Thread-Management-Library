@@ -22,8 +22,7 @@ Visualization Link (See the Visual implementation of the Library and how it work
 
 ### Installation  
 1. **Clone the Repository:**  
-   ```bash
-   git clone https://github.com/Prince-Anand/Scalable-Thread-Management-Library.git  
+   ```bash 
    cd Scalable-Thread-Management-Library  
 
 ## 2. Compile the Code  
